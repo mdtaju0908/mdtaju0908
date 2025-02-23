@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdtaju0908
+- 👋 Hi, I’m Md Taju
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on internship
